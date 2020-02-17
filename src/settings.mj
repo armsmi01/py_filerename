@@ -1,0 +1,13 @@
+{
+"title": "File Renaming Utility", 
+"author": "Michael J. Armstrong", 
+"copyright": "\u00a9 2018-2019 Michael J. Armstrong, Toronto, Canada", 
+"license": "MIT License",
+"contact": "marmstrong310@gmail.com", 
+"version": "3.7", 
+"versiondate": "2019-05-27", 
+"description": "a file renaming tool.", 
+"inputs": "currently none", 
+"warning": "Note: Any user notes or warnings", 
+"farewell": "Renaming complete"
+}

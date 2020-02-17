@@ -1,0 +1,6 @@
+# binary folders
+bin
+
+# temporary files
+*.tmp
+*~
