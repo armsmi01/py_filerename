@@ -17,7 +17,7 @@ def fold_select():
 def main():
     # function scope variables
     prog_info = load_obj('settings.mj')
-    dates = re_compile('([1-2]\d\d\d)(\-)([0-1]\d)')
+    dates = re_compile('\\([2]\d\d\d)(\-)([0-1]\d)')
     change = None
     
     while True:
